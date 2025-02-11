@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>calendar_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-443.000000, -292.000000)" fill="#00CA4C">
+            <path d="M452,292.0001 L452,294.0011 L447.999,294.0011 L447.999,292.0001 L446,292.0001 L446,294.0011 L445,294.0011 L443,294.0011 L443,296.0001 L443,297.9991 L443,300.0001 L443,305.9991 L443,306.9991 L443,308.0001 L457,308.0001 L457,294.0011 L455,294.0011 L454,294.0011 L454,292.0001 L452,292.0001 Z M445,298.0001 L455,298.0001 L455,296.0001 L445,296.0001 L445,298.0001 Z M445,305.9991 L455,305.9991 L455,300.0001 L445,300.0001 L445,305.9991 Z" id="calendar_hover"></path>
+        </g>
+    </g>
+</svg>
